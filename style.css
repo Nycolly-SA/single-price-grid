@@ -25,7 +25,7 @@ body {
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-rows: 46% 54%;
-    width: 650px;
+    width: 630px;
     height: 475px;
     grid-template-areas: 
         'join join'

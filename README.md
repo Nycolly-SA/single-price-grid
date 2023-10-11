@@ -2,22 +2,17 @@
 - [IN ENGLISH](#in-english)
 
 ### Em Português
-# Card de visualização do produto - Frontend Mentor
-Essa é uma solução para o desafio [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) do Frontend Mentor.
+# Grid de preço único - Frontend Mentor
+Essa é uma solução para o desafio [Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) do Frontend Mentor.
 
 # Sobre o projeto
-- Website: https://nycolly-sa.github.io/product-preview-card
-- Solução: [https://frontend.io/solutions/product-preview-card](https://www.frontendmentor.io/solutions/product-preview-card-with-html-and-css-9sb2N6-MzV)
+- Website: https://nycolly-sa.github.io/single-price-grid
+- Solução: [https://frontend.io/solutions/single-price-grid](https://www.frontendmentor.io/solutions/single-price-grid-with-html-and-css-28jwUpbRPk)
 
-Esse é meu primeiro projeto finalizado. Inclusive é a primeira vez que uso GitHub (talvez esse seja o motivo de tantos commits 😅). 
-Aprendi muitas coisas com esse projeto, entre elas:
-- Como centralizar uma div em uma página;
-- Web Design responsivo;
-- Uso das media queries no CSS;
-- Estilos no CSS;
-- Conceitos básicos de flexbox;
-- Como publicar um projeto no GitHub;
-  - E como publicar no Github dentro do vscode.
+Esse projeto seguiu vários conceitos parecidos com os dois últimos projetos que fiz, porém, nesse eu precisei usar a propriedade Grid ao invés da Flex-box. Achei um pouco difícil no começo, porém depois fui aprendendo!
+Nesse projeto aprendi:
+- Layout Grid;
+- Sombras (box-shadow) no CSS.
 
 ### Tecnologias utilizadas
 - Front-end
@@ -25,34 +20,30 @@ Aprendi muitas coisas com esse projeto, entre elas:
   - CSS
 
 ### Recursos úteis
-- [Mozilla - Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) - Isso me ajudou a entender mais sobre medias queries.
-- [Mozilla - Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) - Isso me ajudou a entender mais sobre as propriedades do flexbox.
+- [Aprenda CSS Grid em 30 minutos - Matheus Battisti](https://www.youtube.com/watch?v=8VapN6x897U&ab_channel=MatheusBattisti-HoradeCodar) - Me ajudou a entender mais sobre alguns conceitos de Grid.
+- [Mozilla - box-shadow CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow) - Me ajudou a entender como funciona sombras no CSS.
+- [Color Code Picker](https://www.colorcodepicker.com/) - Me ajudou a conseguir as cores exatas que precisava com a imagem do design disponibilizada.
 
 ## Layout web
-![Web 1](https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/desktop.png)
+![Web 1](https://github.com/Nycolly-SA/assets/blob/main/single-price-grid/desktop.png)
 
 ## Layout mobile
-<img src='https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/mobile.png' alt='Mobile' width='350px'>
+<img src='https://github.com/Nycolly-SA/assets/blob/main/single-price-grid/mobile.png' alt='Mobile' width='350px'>
 
 
 
 ### In English
-# Product preview card - Frontend Mentor
-This is a solution to the challenge [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) on Frontend Mentor.
+# Single price grid - Frontend Mentor
+This is a solution to the challenge [Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) on Frontend Mentor.
 
 # About the project
-- Website: https://nycolly-sa.github.io/product-preview-card
-- Solution: [https://frontend.io/solutions/product-preview-card](https://www.frontendmentor.io/solutions/product-preview-card-with-html-and-css-9sb2N6-MzV)
+- Website: https://nycolly-sa.github.io/single-price-grid
+- Solution: [https://frontend.io/solutions/single-price-grid](https://www.frontendmentor.io/solutions/single-price-grid-with-html-and-css-28jwUpbRPk)
 
-This is my first finished project. This is also the first time I use GitHub (maybe that's the reason for so many commits 😅).
-I learned many things from this project, including:
-- How to center a div on a page;
-- Responsive Web Design;
-- Use of Media queries on CSS;
-- Styles on CSS;
-- Basic concepts of flexbox;
-- How to publish a project on GitHub;
-  - And how to publish on GitHub inside vscode.
+This project followed several concepts similar to the last two projects I did, however, in this one I needed to use the Grid property instead of the Flex-box. I found it a little difficult at first, but I got the hang of it as I progressed!
+In this project I learned:
+- Grid Layout;
+- Shadows (box-shadow) in CSS.
 
 
 ### Used technologies
@@ -61,11 +52,12 @@ I learned many things from this project, including:
   - CSS
 
 ### Useful resources
-- [Mozilla - Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) - This helped me understand more about media queries.
-- [Mozilla - Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) - This helped me understand more about flexbox properties.
+- [Aprenda CSS Grid em 30 minutos - Matheus Battisti](https://www.youtube.com/watch?v=8VapN6x897U&ab_channel=MatheusBattisti-HoradeCodar) - Helped me understand more about some Grid concepts.
+- [Mozilla - box-shadow CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow) - Helped me understand how shadows work in CSS.
+- [Color Code Picker](https://www.colorcodepicker.com/) - Helped me get the exact colors I needed with the design image provided.
 
 ## Web layout
-![Web 1](https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/desktop.png)
+![Web 1](https://github.com/Nycolly-SA/assets/blob/main/single-price-grid/desktop.png)
 
 ## Mobile layout
-<img src='https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/mobile.png' alt='Mobile' width='350px'>
+<img src='https://github.com/Nycolly-SA/assets/blob/main/single-price-grid/mobile.png' alt='Mobile' width='350px'>
